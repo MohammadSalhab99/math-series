@@ -1,0 +1,2 @@
+# Math Series
+I created fibonacci series and locus series with specified index of the element, then a function that take any series with given two first elements of this series and return any element in this series with specified index of the element.
